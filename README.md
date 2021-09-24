@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bhadoriya07
+- 👋 Hi, I’m Neelesh 
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on web projects
