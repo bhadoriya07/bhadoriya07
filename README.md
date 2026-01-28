@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Neelesh 
-- 👀 I’m interested in web development 
-- 🌱 I’m currently learning DSA
+- 👀 I’m interested in modern web development, LLM, Agentic AI, GenAI 
 - 💞️ I’m looking to collaborate on web projects
 - 📫 How to reach me neeleshbhadoriya786@gmail.com
 
